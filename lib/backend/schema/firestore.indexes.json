@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "interestedInDating",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "sexuality",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "gender",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

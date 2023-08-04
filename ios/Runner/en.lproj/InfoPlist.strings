@@ -1,0 +1,4 @@
+NSMicrophoneUsageDescription = "In order to record audio, this app rquires the use of your phone microphone.";
+NSPhotoLibraryUsageDescription = "In order to upload media file via this app, permission is required";
+NSLocationWhenInUseUsageDescription = "For better efficiency, this app requires your location to be turned on.";
+PermissionGroupNotification = "In order to show notifications from this app, the app requires you give permission.";
