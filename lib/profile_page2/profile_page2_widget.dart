@@ -55,7 +55,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'nn1zkpw0' /* Hello World */,
+                            '2e1afi2z' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
@@ -71,7 +71,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'fc2tk3zw' /* Hello World */,
+                            'e5mgipco' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
@@ -87,7 +87,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'msafcu7h' /* Hello World */,
+                            'amoqm7j0' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
@@ -103,7 +103,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            '6xjnmopf' /* Hello World */,
+                            'c9tdxsg4' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
@@ -119,7 +119,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'kz6h7l72' /* Hello World */,
+                            'cxb86bb2' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
@@ -135,7 +135,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            'bsvbnfj2' /* Hello World */,
+                            '2bb036i4' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
@@ -151,7 +151,7 @@ class _ProfilePage2WidgetState extends State<ProfilePage2Widget> {
                       children: [
                         Text(
                           FFLocalizations.of(context).getText(
-                            '233ksgca' /* Hello World */,
+                            'zhtxf199' /* Hello World */,
                           ),
                           style: FlutterFlowTheme.of(context).bodyMedium,
                         ),
